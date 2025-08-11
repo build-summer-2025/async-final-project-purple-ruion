@@ -3,11 +3,11 @@ Your repostiory should be named something like `async-final-project-color-name`
 Example: `async-final-project-teal-Anas`
 
 ## Dataset
-[Dataset Name](https://www.example.com/link-to-dataset)
+[Dataset Name](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard)
 
 ## Why did I chose this dataset?
 
-[Placeholder for answer]
+I chose this data set because I want to analyze uber rides more. I want to see what are the chances of a customer canceling a ride and the main reasons why the ride was canceled. I also want to see what the average distance of a ride is. 
 
 ## Progress
 - [ ] Picked dataset

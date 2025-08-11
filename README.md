@@ -17,9 +17,9 @@ I chose this data set because I want to analyze uber rides more. I want to see w
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
+- [ ] Question 1: What are the vehicle types used?
+  - Answer: There is a total of 7 vechicles that uber uses: eBike, Go Sedan, Auto, Premier Sedan, Bike, Go Mini, and Uber XL. 
+  - Visualization: ![Q1 Visualization](images/output_q1.png)
 
 - [ ] Question 2: [Brief description of the task]
   - Answer: [Placeholder for answer]

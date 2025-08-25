@@ -37,9 +37,9 @@ I chose this data set because I want to analyze uber rides more. I want to see w
   - Answer: Yes, higher driver ratings tend to also have higher customer ratings based on a random sample of 100. 
   - Visualization: ![Q5 Visualization](images/output_q5.png)
 
-- [ ] Question 6: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
+- [ ] Question 6: Is there a trend with VTAT and ride distance?
+  - Answer: There is no trend between these two. 
+  - Visualization: ![Q6 Visualization](images/output_q6.png)
 
 - [ ] Question 7: [Brief description of the task]
   - Answer: [Placeholder for answer]

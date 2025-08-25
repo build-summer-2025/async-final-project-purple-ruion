@@ -33,9 +33,9 @@ I chose this data set because I want to analyze uber rides more. I want to see w
   - Answer: UPI, cash, uber wallet, credit card
   - Visualization: ![Q4 Visualization](images/output_q4.png)
 
-- [ ] Question 5: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
+- [ ] Question 5: Is there a relation in customer ratings and driver ratings?
+  - Answer: Yes, higher driver ratings tend to also have higher customer ratings based on a random sample of 100. 
+  - Visualization: ![Q5 Visualization](images/output_q5.png)
 
 - [ ] Question 6: [Brief description of the task]
   - Answer: [Placeholder for answer]

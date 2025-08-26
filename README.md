@@ -41,18 +41,18 @@ I chose this data set because I want to analyze uber rides more. I want to see w
   - Answer: There is no trend between these two. 
   - Visualization: ![Q6 Visualization](images/output_q6.png)
 
-- [ ] Question 7: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
+- [ ] Question 7: What are the top reasons driver cancels rides?
+  - Answer: Drivers cancel rides mainly because of customer issues. There is only 24.9% of personal and car related issues. 
+  - Visualization: ![Q7 Visualization](images/output_q7.png)
 
-- [ ] Question 8: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
+- [ ] Question 8: What are the top 5 pickup locations?
+  - Answer: Khandsa is the most common pickup location. 
+  - Visualization: ![Q8 Visualization](images/output_q8.png)
 
-- [ ] Question 9: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
+- [ ] Question 9: What are the most common drop off location in Khandsa?
+  - Answer: Seelampur, Basai Dhankot, Satguru Ram Singh Marg, Rajouri Garden, Gurgaon Sector 29         
+  - Visualization: ![Q9 Visualization](images/output_q9.png)
 
-- [ ] Question 10: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
+- [ ] Question 10: What do the booking value look like for each vehicle type?
+  - Answer: Auto and Go Mini are the most high cost rides. 
+  - Visualization: ![Q10 Visualization](images/output_q10.png)
